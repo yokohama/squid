@@ -1,0 +1,10 @@
+<div class="span10 alert alert-information">
+  <h3>新着お知らせ</h3>
+  <% informations.each do |i| %>
+    <ul class="inline">
+      <li><%= i.created_at.strftime("%Y/%m/%d %H:%M") %></li>
+      <li><%= link_to i.title, i %></li>
+    </ul>
+  <% end %>
+  <p class="pull-right"><%= link_to "もっと見る", information_index_path %></p>
+</div>

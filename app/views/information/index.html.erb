@@ -1,0 +1,25 @@
+<h3>お知らせ一覧</h3>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>作成日</th>
+      <th>件名</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @information.each do |information| %>
+    <tr>
+      <td><%= information.created_at.strftime("%Y/%m/%d %H:%M") %></td>
+      <td><%= link_to information.title, information %></td>
+      <td><%= link_to 'Edit', edit_information_path(information) if current_admin %> <%= link_to 'Destroy', information, method: :delete, data: { confirm: 'Are you sure?' } if current_admin %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br />
+
+<%= link_to 'お知らせ作成', new_information_path if current_admin %>

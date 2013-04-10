@@ -1,0 +1,25 @@
+<h3>お知らせ一覧</h3>
+
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>作成日</th>
+      <th>件名</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @user.each do |user| %>
+    <tr>
+      <td><%= user.created_at.strftime("%Y/%m/%d %H:%M") %></td>
+      <td><%= link_to user.title, user %></td>
+      <td><%= link_to 'Edit', edit_user_path(user) if current_admin %> <%= link_to 'Destroy', user, method: :delete, data: { confirm: 'Are you sure?' } if current_admin %></td>
+    </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br />
+
+<%= link_to 'お知らせ作成', new_user_path if current_admin %>

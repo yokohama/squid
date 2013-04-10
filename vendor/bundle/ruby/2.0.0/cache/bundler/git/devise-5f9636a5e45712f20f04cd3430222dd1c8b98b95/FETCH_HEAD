@@ -1,0 +1,88 @@
+538c16cd00bad70ecb4ad2a3059b3db74ee925c0		branch 'adding-ci-status-to-readme' of git://github.com/idl3/devise
+45298c0a37799d2fc46ed0538bbc3776fb08f227		branch 'extracting_bcrypt' of git://github.com/idl3/devise
+2cf4574a16d90c0e3f002b582c10f909326ec88f		branch 'failed_attempts' of git://github.com/idl3/devise
+64c05f2ce9e38a23867f56944e50e09fdaf00e8c		branch 'fix_assertion' of git://github.com/idl3/devise
+ed8ab246ce92160b70f8b5db49fc8b8dd45c038f		branch 'gh-pages' of git://github.com/idl3/devise
+519bf4d4e1f02128e52a3ac09c3e08753e959461		branch 'master' of git://github.com/idl3/devise
+cbf483143fddf2dd2eddbfe331edd1b02d15d0a5		branch 'rails-3-2-fixes' of git://github.com/idl3/devise
+5a96778c678f2bce91bcdd63b16206a516002649		branch 'rails4' of git://github.com/idl3/devise
+bb6d7334d0ca880ffe478f85070ccee8cb33586f		branch 'removing_encryptable' of git://github.com/idl3/devise
+f2cd983b4fc62a7abf04d26078d1703239232b40		branch 'v1.0' of git://github.com/idl3/devise
+8e0d517cdb07e1c7326923155947706e030fc992		branch 'v1.1' of git://github.com/idl3/devise
+5ce5843888b827ac76ef0c4cf21c4f6e2f79fb74		branch 'v1.2' of git://github.com/idl3/devise
+c42a86957ae3ce5955e9da2eaf604e1e3125693e		branch 'v1.2.oauth' of git://github.com/idl3/devise
+9f763d082a51d5b0c50c884b044a8900faada8bf		branch 'v1.3' of git://github.com/idl3/devise
+04999bdca84b020181456956ce21731dedd288c7		branch 'v1.4' of git://github.com/idl3/devise
+59cd9e72b9cb2ffc98d41b1bbad04c7849a97a2e		branch 'v1.5' of git://github.com/idl3/devise
+7c67388a90afc7f356e7b3217df91400001d1043	not-for-merge	tag 'v0.7.5' of git://github.com/idl3/devise
+d00c31314d6dc8692ee1697c3ed6516b74672636	not-for-merge	tag 'v0.8.0' of git://github.com/idl3/devise
+c4764c931ab1d7a0ceacc6ac0cb6fdf6d019e97d	not-for-merge	tag 'v0.8.1' of git://github.com/idl3/devise
+d1dc18cb1a5f2a91f70be0d574146e8f9dc38b12	not-for-merge	tag 'v0.8.2' of git://github.com/idl3/devise
+e4e9e16623fe9b4c62c55351c3f71fbaf5c39dcf	not-for-merge	tag 'v0.9.0' of git://github.com/idl3/devise
+ca794776c1da40786ae106d3d97ce943293f224e	not-for-merge	tag 'v0.9.1' of git://github.com/idl3/devise
+e02810d5284139ebebc4ffc14d73d6803389b656	not-for-merge	tag 'v0.9.2' of git://github.com/idl3/devise
+4bfbeea7e6e6f78503abf5b59571a316a7a72158	not-for-merge	tag 'v1.0.0' of git://github.com/idl3/devise
+3e37fe8d4da633e747455408642a6e3298160953	not-for-merge	tag 'v1.0.1' of git://github.com/idl3/devise
+15fd736f07b5c5e0acb2e2faa3904d582333d934	not-for-merge	tag 'v1.0.11' of git://github.com/idl3/devise
+23568bda82d04062615b79570949ed4ff18b039d	not-for-merge	tag 'v1.0.2' of git://github.com/idl3/devise
+545462e9640e818fde4b190e0800b13796f3c4ce	not-for-merge	tag 'v1.0.3' of git://github.com/idl3/devise
+d36e1012f8d378d19d1042677921e9e03efedcd0	not-for-merge	tag 'v1.0.4' of git://github.com/idl3/devise
+ce3926fea44c516c13f591c90d95dd34e2a0bade	not-for-merge	tag 'v1.0.5' of git://github.com/idl3/devise
+234af4b14a8e7ebc7abc1923a677a4ca4a17df27	not-for-merge	tag 'v1.0.6' of git://github.com/idl3/devise
+c38b2f69d07f059b5496aa661d9dc9b33fae5a6a	not-for-merge	tag 'v1.0.7' of git://github.com/idl3/devise
+1741a79114df35c7396533d92426b307b55c45bf	not-for-merge	tag 'v1.0.8' of git://github.com/idl3/devise
+7abe80e07917200f63d6a1336d7089f7be60d488	not-for-merge	tag 'v1.0.9' of git://github.com/idl3/devise
+9ab64c53f48c60f360213c701cf8384ad45f4fa9	not-for-merge	tag 'v1.1.0' of git://github.com/idl3/devise
+879b64edc945e3531e65abf4a6b7970052927e39	not-for-merge	tag 'v1.1.1' of git://github.com/idl3/devise
+79a70c66daebb4247ddbc7c20c4c6aafd5c53dbe	not-for-merge	tag 'v1.1.2' of git://github.com/idl3/devise
+3b0aaaaae8267dee4c4084c739217837eeb58e6e	not-for-merge	tag 'v1.1.3' of git://github.com/idl3/devise
+36906a03f3a18d5dcc57376cf2b1a7f5753354b1	not-for-merge	tag 'v1.1.4' of git://github.com/idl3/devise
+dea0f68291fc5e077e655f7dc0f23a9067a79f30	not-for-merge	tag 'v1.1.5' of git://github.com/idl3/devise
+28353505fdffc91601e915ca23478bda3637a84a	not-for-merge	tag 'v1.1.6' of git://github.com/idl3/devise
+2b123f30175e706a5dba1d72570e904c60753aae	not-for-merge	tag 'v1.1.7' of git://github.com/idl3/devise
+1d85f389a073f5053c5f80edde831042f7447800	not-for-merge	tag 'v1.1.8' of git://github.com/idl3/devise
+8e0d517cdb07e1c7326923155947706e030fc992	not-for-merge	tag 'v1.1.9' of git://github.com/idl3/devise
+6d6633d1fbf1202c603f438f4ad01f95faffb430	not-for-merge	tag 'v1.1.pre' of git://github.com/idl3/devise
+889803151d846c334f1a3f19c9dfb831dc4b96ae	not-for-merge	tag 'v1.1.pre2' of git://github.com/idl3/devise
+94511c1a43f9aa7c732d7ab7aaae03f3e2f2399b	not-for-merge	tag 'v1.1.pre3' of git://github.com/idl3/devise
+1d4f4c19c9fe56fb9737b3cdfb3a6781c7d39dc3	not-for-merge	tag 'v1.1.pre4' of git://github.com/idl3/devise
+d3c31ef16dfaccba9ea902ed7d903cfd088db041	not-for-merge	tag 'v1.1.rc0' of git://github.com/idl3/devise
+ca6248cfd3aaecf126ab5502469bba52b5dc1216	not-for-merge	tag 'v1.1.rc1' of git://github.com/idl3/devise
+748eced9e8502b31c07dc8ee0e02e3c7855c14df	not-for-merge	tag 'v1.1.rc2' of git://github.com/idl3/devise
+da510508bb919fdcd2b94a461f3c3c56d127ca5b	not-for-merge	tag 'v1.2.0' of git://github.com/idl3/devise
+5ce5843888b827ac76ef0c4cf21c4f6e2f79fb74	not-for-merge	tag 'v1.2.1' of git://github.com/idl3/devise
+1d6944d201513068619d301ecafd06f31c9ae6fe	not-for-merge	tag 'v1.2.rc' of git://github.com/idl3/devise
+4f093574da82c1fb18a1fd803b9b1ab27e9d132e	not-for-merge	tag 'v1.2.rc2' of git://github.com/idl3/devise
+460beae671c654bdb83ebbc4c4ebfa613aee8384	not-for-merge	tag 'v1.3.0' of git://github.com/idl3/devise
+b6cf1df6591bb083be7ae195c7dfa33955820497	not-for-merge	tag 'v1.3.1' of git://github.com/idl3/devise
+76edb49c9d9c8ab89a11341792efc47f3f66fcc4	not-for-merge	tag 'v1.3.2' of git://github.com/idl3/devise
+39b59142ea288dca18d45771de94fd88b5d4621b	not-for-merge	tag 'v1.3.3' of git://github.com/idl3/devise
+9f763d082a51d5b0c50c884b044a8900faada8bf	not-for-merge	tag 'v1.3.4' of git://github.com/idl3/devise
+dba8f91f99dce0e102ad2e6aa78b142a92833bc3	not-for-merge	tag 'v1.4.0' of git://github.com/idl3/devise
+82ae53dd75f81533fc2dfb277ce5a85be230868c	not-for-merge	tag 'v1.4.1' of git://github.com/idl3/devise
+7a2e018df807d8e20d6c5850f569c86b13a65725	not-for-merge	tag 'v1.4.2' of git://github.com/idl3/devise
+ef4eb47d5016b710a628187e4765ac4606ed69ae	not-for-merge	tag 'v1.4.3' of git://github.com/idl3/devise
+071f54ac59502c42ff616b9bea2b1895d6155d64	not-for-merge	tag 'v1.4.4' of git://github.com/idl3/devise
+ede06b083fc7f697bbe3bc42beee8a9ee34cf430	not-for-merge	tag 'v1.4.5' of git://github.com/idl3/devise
+08a8d7bf51784acd9e242402118278a49809245f	not-for-merge	tag 'v1.4.6' of git://github.com/idl3/devise
+e4902af15a572843716aef2affab5a768cc473df	not-for-merge	tag 'v1.4.7' of git://github.com/idl3/devise
+c698e44d10cc1cd4a6f687ab41d3be84e0545b5a	not-for-merge	tag 'v1.4.8' of git://github.com/idl3/devise
+04999bdca84b020181456956ce21731dedd288c7	not-for-merge	tag 'v1.4.9' of git://github.com/idl3/devise
+4268a9b36d2d478aab88fdbf8bee8f8df8d36180	not-for-merge	tag 'v1.5.0' of git://github.com/idl3/devise
+a43c1ee0fa5b6b3f4706e2c0ea95116f0a31c37c	not-for-merge	tag 'v1.5.0.rc' of git://github.com/idl3/devise
+d6c0fcbce4eebb81c407e6f4b2a601559b9659b6	not-for-merge	tag 'v1.5.0.rc1' of git://github.com/idl3/devise
+124c49103336721af11a70d5b896273b0b0e2daf	not-for-merge	tag 'v1.5.1' of git://github.com/idl3/devise
+8c3870fc766dd8acb7024537bacab9bde9e14bf1	not-for-merge	tag 'v1.5.2' of git://github.com/idl3/devise
+59cd9e72b9cb2ffc98d41b1bbad04c7849a97a2e	not-for-merge	tag 'v1.5.3' of git://github.com/idl3/devise
+a71a352822a67f4764a5bd20337c48e8e28ed222	not-for-merge	tag 'v2.0.0' of git://github.com/idl3/devise
+94e5a589b65fa8194a8547b2267114cca3bdf70c	not-for-merge	tag 'v2.0.0.rc' of git://github.com/idl3/devise
+85e9dab3702025d84ade17f9f7bedb7f760142cc	not-for-merge	tag 'v2.0.0.rc2' of git://github.com/idl3/devise
+f1a27b8f33d76b0da81f25e7c3b36291e2c0df12	not-for-merge	tag 'v2.0.1' of git://github.com/idl3/devise
+2e27d1f763f8338c7dc64e8bfbf64c2c073f414a	not-for-merge	tag 'v2.0.2' of git://github.com/idl3/devise
+ac7ab1d0c5ce608adeb0280808fb9b5b8c8aec29	not-for-merge	tag 'v2.0.3' of git://github.com/idl3/devise
+8fc18b49eba29b850e51b5a3c370d9b039aa625c	not-for-merge	tag 'v2.0.4' of git://github.com/idl3/devise
+d4a898c9459b9b3572e87d8f306c16a30c90a54e	not-for-merge	tag 'v2.1.0' of git://github.com/idl3/devise
+09822ff18797240414a1e788578d948c166202a4	not-for-merge	tag 'v2.1.0.rc' of git://github.com/idl3/devise
+cd4a59a49d228c6e3699a865f03127f5d496f510	not-for-merge	tag 'v2.1.0.rc2' of git://github.com/idl3/devise
+ba2e44c6a4ede1df1dc020618d640e0ddf809ebf	not-for-merge	tag 'v2.1.1' of git://github.com/idl3/devise
+174c2903d7d7f85688b80924453cebd665eef26a	not-for-merge	tag 'v2.1.2' of git://github.com/idl3/devise

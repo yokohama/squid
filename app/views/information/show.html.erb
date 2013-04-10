@@ -1,0 +1,9 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @information.title %>
+</p>
+
+
+<%= link_to '編集', edit_information_path(@information) if current_admin %>
