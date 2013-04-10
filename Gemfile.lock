@@ -26,6 +26,19 @@ GIT
       execjs
       railties (>= 3.1)
 
+GIT
+  remote: https://github.com/runeleaf/activerecord-sqlserver-adapter
+  revision: a5b1f1ccb9210893d3e979cc802f3e2aaa575e22
+  specs:
+    activerecord-sqlserver-adapter (3.2.10)
+      activerecord (~> 4.0.0.beta1)
+
+GIT
+  remote: https://github.com/runeleaf/tiny_tds
+  revision: 89675617e6de66ba640a43da83ac1c8bf42e394a
+  specs:
+    tiny_tds (0.6.0.rc1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -151,6 +164,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord-sqlserver-adapter!
   coffee-rails (~> 4.0.0.beta1)
   devise!
   jbuilder (~> 1.0.1)
@@ -161,6 +175,7 @@ DEPENDENCIES
   sdoc
   sqlite3
   therubyracer
+  tiny_tds!
   turbolinks
   twitter-bootstrap-rails!
   uglifier (>= 1.3.0)
